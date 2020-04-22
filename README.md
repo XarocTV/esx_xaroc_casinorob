@@ -8,4 +8,5 @@
 - xaroc@xarocianer.de
 
 **Dependency** 
+- Casino MLO https://forum.cfx.re/t/the-diamond-casino-enterable-mlo/832067
 - es_extended
