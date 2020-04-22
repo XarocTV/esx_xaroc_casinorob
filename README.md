@@ -1,5 +1,6 @@
-# ESX_Xaroc_CasinoRob
-The script adds a casino robbery to FiveM 1.0
+# FiveM - Casino robbery for ESX
+
+**The script adds a casino robbery to FiveM.**
 
 **Xarocianer LifeRP**
 https://www.youtube.com/c/Xaroc
